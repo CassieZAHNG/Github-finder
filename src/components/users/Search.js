@@ -39,7 +39,7 @@ class Search extends Component {
           />
           <input
             type="submit"
-            value="Submit"
+            value="Search"
             className="btn btn-dark btn-block"
           />
         </form>
